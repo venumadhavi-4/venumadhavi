@@ -8,3 +8,14 @@ Data Analysis: beginner level
 I'm constantly honing my skills and currently delving into web development.Whether it's mastering or refining my skills ,I believe in staying sharp and adapting to the evolving tech landscape.
 # connect with me
 lets connect and share insights!you can find me on https://www.linkedin.com/in/venu-madhavi-avvaru-77106222a/
+# NAAC institutional database criteria 2
+A project designed to revoltionize student and faculty information management.
+Features :
+*User roles and authentication
+*Student profiles
+*faculty dashboard
+*admissions 
+*notifications and remainders
+##Tech stack
+*Frontend:Html,css,javascript
+*backend:java
